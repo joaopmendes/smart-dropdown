@@ -19,7 +19,7 @@ import MyComponent from "smart-dropdown";
 
 class Example extends Component {
   render() {
-    return <SmartDropdownm />;
+    return <MyComponent />;
   }
 }
 ```
