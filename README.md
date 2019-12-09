@@ -1,13 +1,13 @@
-# {{name}}
+# smart-dropdown
 
-> {{description}}
+> A dropdown with search simple to use.
 
-[![NPM](https://img.shields.io/npm/v/{{name}}.svg)](https://www.npmjs.com/package/{{name}}) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/smart-dropdown.svg)](https://www.npmjs.com/package/smart-dropdown) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save {{name}}
+npm install --save smart-dropdown
 ```
 
 ## Usage
@@ -15,15 +15,15 @@ npm install --save {{name}}
 ```tsx
 import React, { Component } from "react";
 
-import MyComponent from "{{name}}";
+import MyComponent from "smart-dropdown";
 
 class Example extends Component {
   render() {
-    return <MyComponent />;
+    return <SmartDropdownm />;
   }
 }
 ```
 
 ## License
 
-{{license}} © [{{author}}](https://github.com/{{author}})
+MIT © [joaopmendes](https://github.com/joaopmendes)
